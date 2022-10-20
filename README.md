@@ -7,25 +7,23 @@ Shell installed in device
 
 ### Installation
 
-
-- Just, Clone this repository -
-  ```
   
 
 - Just, Clone this repository -
   ```
   git clone --depth=1 https://github.com/hackphilia/Hackie.git
-
-# Usage
   ```
+# Usage
 
 - Now go to cloned directory and run `start.sh` -
   ```
   $ cd Hackie
   $ bash start.sh
-
+  ```
 # Environments
 Termux, Linux...
 
 # Telegram Channel
+  ```
 t.me/hackphilia
+  ```
